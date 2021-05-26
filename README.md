@@ -7,3 +7,5 @@ root directory(create-pdf or create-pdf-master)へ移動して、`pip install -r
 # 実行
 `python main.py`
 
+# 参考資料
+requirements.txtを活用して、pipインストール : https://note.nkmk.me/python-pip-install-requirements/
